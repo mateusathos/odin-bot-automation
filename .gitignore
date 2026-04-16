@@ -1,0 +1,38 @@
+# Python
+*.py
+!main.py
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build/distribution artifacts
+build/
+dist/
+*.exe
+*.dll
+*.zip
+*.rar
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Project-specific sensitive/generated files
+genKey/key.txt
+AutomateOdin.zip
+genKey.rar
+AutomateOdin/
+genKey/
+Versões Antigas/
+
