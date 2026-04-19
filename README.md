@@ -1,6 +1,7 @@
 # CampaignBot
 
 Automação desktop em Python com reconhecimento de imagens para fluxo repetitivo de interface (estudo de automação GUI, controle de janela e threading).
+Vídeo demonstração: https://youtu.be/Q4aWFIms01Y
 
 ## Stack
 
